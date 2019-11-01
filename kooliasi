@@ -1,14 +1,8 @@
 <html>
 <head>
 <title>Karja leht</title>
-
-
 <h1>kapsaleht</h1>
 <p>179613IACB</p>
-
-
-
-
 <style>
 table, th, td {
   border: 2px solid green;
@@ -34,6 +28,7 @@ table, th, td {
     <td>hehe</td>
   </tr>
 </table>
+<p>väga tätis: <a href="http://www.ttu.ee/">kooli leht</a> peab vaatama</p>
 <p><img src="https://i.kym-cdn.com/photos/images/original/001/316/888/f81.jpeg" alt="kalanaine" width="500" height="327">
 <p>Muusika: Andrew Lloyd Webber <p>
 <p>Muusikal „Ooperifantoom“ retsensioon<p>
